@@ -83,19 +83,7 @@ Passionate about building scalable web applications, enterprise integrations, an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThirumoorthiMurugesan&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThirumoorthiMurugesan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThirumoorthiMurugesan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thirumoorthimurugesan)
 
 ---
 
