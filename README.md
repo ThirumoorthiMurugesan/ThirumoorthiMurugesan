@@ -1,14 +1,21 @@
-<h1 align="center" alt="Typing SVG">Hi 👋, I'm Thirumoorthi Murugesan</h1>
+<h1 align="center">
+  Hi 👋, I'm
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thirumoorthi+Murugesan" alt="Typing SVG" />
+</p>
 
 <h3 align="center">Full Stack Developer | MERN Stack Developer | Oracle Integration Cloud (OIC) Developer</h3>
 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thirumoorthi-murugesan-953b68233/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:thirumoorthim2200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
 </p>
 
