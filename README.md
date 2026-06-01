@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Thirumoorthi+Murugesan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Thirumoorthi+Murugesan" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Full Stack Developer | MERN Stack Developer | Oracle Integration Cloud (OIC) Developer</h3>
