@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Thirumoorthi Murugesan</h1>
+<h1 align="center" alt="Typing SVG">Hi 👋, I'm Thirumoorthi Murugesan</h1>
 
 <h3 align="center">Full Stack Developer | MERN Stack Developer | Oracle Integration Cloud (OIC) Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Oracle+Integration+Cloud+(OIC)+Developer;Building+Scalable+Enterprise+Applications;PMS+%E2%86%94+PTS+%E2%86%94+OPERA+Cloud+Integrations;REST+APIs+%7C+GraphQL+%7C+Microservices" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/thirumoorthi-murugesan-953b68233/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:thirumoorthim2200@gmail.com">
