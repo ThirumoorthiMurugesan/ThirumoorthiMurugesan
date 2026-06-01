@@ -1,9 +1,5 @@
-<h1 align="center">
-  Hi 👋, I'm
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thirumoorthi+Murugesan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Thirumoorthi+Murugesan" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Full Stack Developer | MERN Stack Developer | Oracle Integration Cloud (OIC) Developer</h3>
@@ -37,22 +33,23 @@
 
 ### 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3"/>
+</p>
+⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js"/>
+</p>
+🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL"/>
+</p>
 ### ☁️ Oracle & Integration
 
 ![Oracle Integration Cloud](https://img.shields.io/badge/Oracle_Integration_Cloud-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
@@ -64,12 +61,13 @@
 
 ### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
+</p>
 
----
 
 ## 💼 Professional Experience
 
